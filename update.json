@@ -5,10 +5,6 @@
         {
           "version": "0.1",
           "update_link": "https://sand14.github.io/thunderbird-addon/adgtheme@adg.themes.thunderbird.net.xpi"
-        },
-        {
-          "version": "0.2",
-          "update_link": "https://sand14.github.io/thunderbird-addon/addon-0.2.xpi"
         }
       ]
     }
