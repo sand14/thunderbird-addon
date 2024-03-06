@@ -1,6 +1,6 @@
 {
   "addons": {
-    "{adgtheme@adg.themes.thunderbird.net}": {
+    "adgtheme@adg.themes.thunderbird.net": {
       "updates": [
         {
           "version": "0.1",
